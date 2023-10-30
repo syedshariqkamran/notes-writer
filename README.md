@@ -3,6 +3,7 @@ Project Description:
 The "Notes App" is a user-friendly web application designed to simplify note-taking and organization. With this application, users can effortlessly add, edit, and delete their notes, making it an ideal digital companion for jotting down ideas, tasks, or any other important information. The app offers a straightforward and intuitive interface that encourages productivity and efficient note management.
 
 Key Features:
+![screenshot](https://github.com/syedshariqkamran/notes-writer/assets/89725524/ba6fe02d-023d-490b-b8eb-190ff71dba3c)
 
 The "Notes App" boasts a range of key features that enhance the user experience:
 
